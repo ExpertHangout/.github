@@ -1,8 +1,8 @@
-## Export Hangout
+## Expert Hangout
 
 👩‍💻 Hello, World!
 
-Begin with a brief biography. Introduce yourself, share your passions, and mention your involvement in the “Export Hangout” Community
+Begin with a brief biography. Introduce yourself, share your passions, and mention your involvement in the “Expert Hangout” Community
 <!--
 
 **Here are some ideas to get you started:**
